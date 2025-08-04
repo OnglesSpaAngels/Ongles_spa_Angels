@@ -1,1 +1,1 @@
-# https://onglesspaangels.github.io/ongles-spa-angels/
+# onglesspaangels.github.io/ongles-spa-angels/
