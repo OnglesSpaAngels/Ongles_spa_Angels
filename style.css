@@ -1,0 +1,42 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fffafc;
+    color: #333;
+}
+header, footer {
+    background-color: #f07fa0;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+.container {
+    padding: 2em;
+    max-width: 960px;
+    margin: auto;
+}
+h1, h2 {
+    color: #cc2e5d;
+}
+.services, .why-love, .contact {
+    margin-bottom: 2em;
+}
+ul {
+    line-height: 1.6;
+}
+.gallery {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.gallery img {
+    width: 30%;
+    border-radius: 8px;
+}
+iframe.instagram-media {
+    max-width: 100%;
+    margin: auto;
+    display: block;
+}
